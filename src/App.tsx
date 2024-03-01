@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>App</div>;
+  return <main className="bg-background text-primary">wow</main>;
 };
 
 export default App;
